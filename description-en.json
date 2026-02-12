@@ -1,4 +1,5 @@
 {
+  "description": "Pipeline-stage scaffold intended for remote encryption/decryption operations in data workflows. Current fetch behavior is a placeholder.",
   "domainCategory": "Security & Identity",
   "subjectiveTechnologyElement": "Pipelines",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "Crypt Remote",
-      "text": "A Subjective data source for Crypt Remote. This data source is currently a skeleton (fetch returns no items).",
+      "text": "Pipeline-stage scaffold intended for remote encryption/decryption operations in data workflows. Current fetch behavior is a placeholder.",
       "image": {
         "src": "/subjective_crypt_remote_datasource/icon.svg",
         "alt": "Crypt Remote icon"
